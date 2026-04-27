@@ -1,4 +1,8 @@
-𝖲𝗂𝖯𝗂𝗇𝗃𝖺𝗆 — 𝖲𝗆𝖺𝗋𝗍 𝖨𝗇𝗏𝖾𝗇𝗍𝗈𝗋𝗒 & 𝖫𝖾𝗇𝖽𝗂𝗇𝗀 𝖲𝗒𝗌𝗍𝖾𝗆
+ωᥱℓᥴ𐐫mᥱ!
+<p align="center">
+  <h1>♡ ㅤ     🗨️ㅤ 𝖲𝗂𝖯𝗂𝗇𝗃𝖺𝗆 — 𝖲𝗆𝖺𝗋𝗍 𝖨𝗇𝗏𝖾𝗇𝗍𝗈𝗋𝗒 & 𝖫𝖾𝗇𝖽𝗂𝗇𝗀 𝖲𝗒𝗌𝗍𝖾𝗆    ⎙ㅤ     ⌲ </h1>
+  <p><i>Smart Inventory & Lending System</i></p>
+</p>
 
 > *Modern, elegant, and aesthetic web-based system for managing item borrowing seamlessly.*
 ⫘⫘⫘⫘⫘⫘
@@ -228,9 +232,9 @@ php artisan serve
 
 | Role     | Email                                       | Password |
 | -------- | ------------------------------------------- | -------- |
-| Admin    | [admin@mail.com](mailto:admin@mail.com)     | password |
-| Petugas  | [petugas@mail.com](mailto:petugas@mail.com) | password |
-| Peminjam | [user@mail.com](mailto:user@mail.com)       | password |
+| Admin    | [admin@mail.com](mailto:admin@mail.com)     |  admin   |
+| Petugas  | [petugas@mail.com](mailto:petugas@mail.com) | petugas  |
+| Peminjam | [user@mail.com](mailto:user@mail.com)       |    123   |
 
 ---
 
