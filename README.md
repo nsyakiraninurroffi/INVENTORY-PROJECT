@@ -149,7 +149,7 @@ Relasi utama:
 > Professional ✔️
 > Elegant ✔️
 > Girly aesthetic ✔️
-> Not alay ✔️
+> trends ✔️
 
 ---
 
