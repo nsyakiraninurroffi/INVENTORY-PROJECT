@@ -297,4 +297,10 @@ Kalau project ini membantu:
 **SiPinjam bukan cuma project, tapi solusi.**
 Dari manual → digital. Dari ribet → simpel.
 
+
 ---
+
+<div align="center">
+  <p><i>Developed with 🤍 and attention to detail.</i></p>
+  <p><b>© 2026 Nesya Kirani Nurroffi. All rights reserved.</b></p>
+</div> 
